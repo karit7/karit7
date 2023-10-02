@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tanzib Mahammad
+### Hi there 👋 I'm Muhammad Tanzib Hussain
 
 <!--
 **karit7/karit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
