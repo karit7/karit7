@@ -1,6 +1,6 @@
 ### Hi there 👋 Myself Tanzib Mahammad
 
-- 🔭 I’m currently working on Real time Object Tracking
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Machine Learning
   <!--
 - 👯 I’m looking to collaborate on ...
